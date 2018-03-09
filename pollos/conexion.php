@@ -1,4 +1,5 @@
 <?php
+//este es un comentario :v
 function conectarse()
 {
 $mysqli = new mysqli("localhost", "root", "", "pollos");	
